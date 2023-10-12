@@ -3,7 +3,7 @@
 My name is Olya, and I am a Junior Data Analyst from Russia. 
 I am planning to move to Georgia in Fall 2023. 
 
-About me:
+About me:</br>
 🎓 I hold a Bachelor's degree in Finance and a Master's degree in Management.</br>
 👩🏻‍💻 I have gained work experience at various levels of business, from working in a warehouse to conducting business negotiations.</br>
 📖 I completed data analytics courses in August 2023 and continue to deepen my knowledge in this field by taking various free courses.</br>
