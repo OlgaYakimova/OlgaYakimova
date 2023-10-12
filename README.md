@@ -10,7 +10,7 @@ About me:</br>
 🕵🏻‍♀️ I am naturally curious and always ask "Why is this so?" in different areas of my life.</br>
 🐕‍🦺 In my free time, I enjoy training my dog and reading popular science literature.</br>
 
-Hard Skills: SQL, Python (Pandas, NumPy, Matplotlib, Seaborn), statistical analysis, data visualization (Tableau, PowerBI), and basic business knowledge. 
+Hard Skills: SQL, Python (Pandas, NumPy, Matplotlib, Seaborn), statistical analysis, data visualization (Tableau, PowerBI), and basic business knowledge. </br>
 Soft Skills: teamwork, ability to learn, creativity, adaptability, critical thinking, independence, and customer orientation.
 
 Please enjoy my portfolio below
