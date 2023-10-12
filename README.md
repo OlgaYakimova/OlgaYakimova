@@ -1,15 +1,20 @@
 ### Hi there 🤓
 
-I'm Olya, Junior Data Analyst from Russia, planning to move to Georgia in Fall 2024. 
+My name is Olya, and I am a Junior Data Analyst from Russia. 
+I am planning to move to Georgia in Fall 2023. 
 
-A year ago, I made the decision to transition into the IT field because everything related to it fascinates me. Writing code is like magic to me, and seeing the output results is real wizardry. After exploring various areas in IT, I realized that I wanted to become a data analyst. I love learning new things, have a critical thinking mindset, and always look for unconventional solutions. Thanks to my education and experience, I am confident that I can successfully start working in this new field.
+About me:
+🎓 I hold a Bachelor's degree in Finance and a Master's degree in Management.
+👩🏻‍💻 I have gained work experience at various levels of business, from working in a warehouse to conducting business negotiations.
+📖 I completed data analytics courses in August 2023 and continue to deepen my knowledge in this field by taking various free courses.
+🕵🏻‍♀️ I am naturally curious and always ask "Why is this so?" in different areas of my life.
+🐕‍🦺 In my free time, I enjoy training my dog and reading popular science literature.
 
 My hard skills include SQL, Python (Pandas, NumPy, Matplotlib, Seaborn), statistical analysis, data visualization (Tableau, PowerBI), and basic business knowledge. 
 My soft skills include teamwork, ability to learn, creativity, adaptability, critical thinking, independence, and customer orientation.
 
-My hobbies include dog training (kinology), reading popular science literature, and searching for answers to the question "why is a human the way he is?" From evolutionary theory and neurobiology to psychology, history, and even astrology.
-
 Please enjoy my portfolio below
+
 ⬇️⬇️⬇️
 <!--
 **OlgaYakimova/OlgaYakimova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
