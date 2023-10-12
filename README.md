@@ -15,8 +15,6 @@ Soft Skills: teamwork, ability to learn, creativity, adaptability, critical thin
 
 Please enjoy my portfolio below
 
-![Pic](https://img.freepik.com/free-vector/hand-drawn-gathering-data-in-business-concept_52683-76786.jpg?w=826&t=st=1697102355~exp=1697102955~hmac=fe148a5bab5971ff237a7014267f9da13245d3a09cecda8f7d2cdf7fab6a12b3)
-
 ⬇️⬇️⬇️
 <!--
 **OlgaYakimova/OlgaYakimova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
