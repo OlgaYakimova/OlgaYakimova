@@ -15,7 +15,7 @@ Soft Skills: teamwork, ability to learn, creativity, adaptability, critical thin
 
 Please enjoy my portfolio below
 
-![alt text]([http://url/to/img.png](https://img.freepik.com/free-vector/sentiment-analysis-concept-illustration_114360-5212.jpg?w=826&t=st=1697102317~exp=1697102917~hmac=df87434246203ac7078ddf8835327a72608dd7da9919e58853a36bb6d108cefd))
+![Pic](https://img.freepik.com/free-vector/hand-drawn-gathering-data-in-business-concept_52683-76786.jpg?w=826&t=st=1697102355~exp=1697102955~hmac=fe148a5bab5971ff237a7014267f9da13245d3a09cecda8f7d2cdf7fab6a12b3)
 
 ⬇️⬇️⬇️
 <!--
