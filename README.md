@@ -10,10 +10,7 @@ My soft skills include teamwork, ability to learn, creativity, adaptability, cri
 My hobbies include dog training (kinology), reading popular science literature, and searching for answers to the question "why is a human the way he is?" From evolutionary theory and neurobiology to psychology, history, and even astrology.
 
 Please enjoy my portfolio below
-
-|
-
-V
+⬇️⬇️⬇️
 <!--
 **OlgaYakimova/OlgaYakimova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
